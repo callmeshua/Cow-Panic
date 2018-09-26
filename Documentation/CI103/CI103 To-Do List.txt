@@ -1,0 +1,33 @@
+---------------- REQUIRED ----------------
+	- Score display in-game
+	- Score saving at end of game
+		- Should take in three initials and save the name and score
+	- Lives display in-game
+	- Leaderboard post-game
+	- Main menu with abducting to select different buttons
+	- Sound effects
+	- Design cow point variations
+		- Sick cows are vital!
+		- Golden Calf
+	Background art
+	- Testing
+	- Fix abduction hitbox
+	- Set screen borders and destroy cows outside boundaries
+	- Cows fall back to ground if not abducted
+	- Add a ground
+		- Ground art
+		- Ground object on "Ground" layer that stops cow falling when they are not being abducted
+
+---------------- ADDITIONAL ----------------
+	- Campaign mode
+		- Contains 5-10 levels
+		- Has a shop that sells upgrades
+	- Support Android
+	- Options Screen
+		- Moosic volume
+		- Sound volume
+		- Toggle Cow Punic!
+		- Clear leaderboards?
+	- Donald Trump cow
+		- When abducted, player instantly loses
+		- A wall is put up on the screen that prevents other cows from moving for a moment if Trump cow leaves the screen

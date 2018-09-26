@@ -1,0 +1,44 @@
+Cow Spawning Algorithm (Endless Mode):
+
+variables to consider:
+-time elapsed since begninning of game
+-how often to refresh the spawn function
+-speed of cows
+
+
+
+things to consider:
+-refresh spawn function every n seconds, "rolls" to see if it should spawn a cow
+-frequency should be steadily random, but not static
+-speed of cows should increase gradually
+-speed should also be steadily random, so cows move at slightly different speeds
+
+
+Algorithm:
+
+bool cowSpawn(double speed) // every n seconds, recall this function to decide whether to spawn a cow or not
+{
+	bool spawn; // determines whether to spawn a cow or not in this execution
+	int x = rand() % 10; // random number between 0 and 9
+	
+	// ~66% chance of spawning a cow (can be tweaked as necessary)
+	if (x >= 0 && x <= 3)
+		spawn = false;
+	else
+		spawn = true;
+	return spawn;
+}
+
+// if cowSpawn returns true, call cowSpeed to determine newly spawned cow's speed:
+
+double cowSpeed(int gameTime, double const SPEED_CONST) //
+{
+	double speed;
+	double RANDOM = rand() % 1; // random number between 0 and 1
+	
+	speed = speed * SPEED_CONST * RANDOM; // multiply by some constant and a randm
+					      // number between 0 and 1 (MUST be greater
+					      // than 0 and less than/equal to 1)
+
+	return speed;
+}

@@ -1,0 +1,26 @@
+-------- MAIN MENU --------
+Play
+	- Endless
+		- In-game
+			- Scoreboard
+				- Main menu
+	- Campaign
+		- New game
+			- Go to level 1
+		- Continue
+			- Go to store
+				- Go to current level
+		- Level select
+			- Go to level select screen
+				- Go to selected level
+			-------- AFTER LEVEL --------
+			- Go to Store (if completed)
+			- Failed screen (if lost)
+Settings
+	- Moosic slider
+	- Sound slider
+	- Disable puns?
+Extras
+	- Scoreboard
+	- Credits
+Quit?

@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: 0fb251744c5c08641a41978711d14a83
+timeCreated: 1464198305
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GlitchCow_0
+    21300002: GlitchCow_1
+    21300004: GlitchCow_2
+    21300006: GlitchCow_3
+    21300008: GlitchCow_4
+    21300010: GlitchCow_5
+    21300012: GlitchCow_6
+    21300014: GlitchCow_7
+    21300016: GlitchCow_8
+    21300018: GlitchCow_9
+    21300020: GlitchCow_10
+    21300022: GlitchCow_11
+    21300024: GlitchCow_12
+    21300026: GlitchCow_13
+    21300028: GlitchCow_14
+    21300030: GlitchCow_15
+    21300032: GlitchCow_16
+    21300034: GlitchCow_17
+    21300036: GlitchCow_18
+    21300038: GlitchCow_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GlitchCow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 428
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 18}
+        - {x: -16, y: 14}
+        - {x: -26, y: 9}
+        - {x: -26, y: -12}
+        - {x: -24, y: -18}
+        - {x: 16, y: -18}
+        - {x: 26, y: -10}
+        - {x: 26, y: 18}
+    - name: GlitchCow_1
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 428
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.2, y: -5}
+        - {x: 26.2, y: 18}
+        - {x: -25.8, y: 18}
+        - {x: -25.8, y: -8}
+        - {x: -24.8, y: -17}
+        - {x: -23.8, y: -18}
+        - {x: 26.2, y: -18}
+        - {x: 26.2, y: -14}
+        - {x: 22.2, y: -3}
+        - {x: 25.2, y: -5}
+    - name: GlitchCow_2
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 0
+        width: 428
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.400002, y: 18}
+        - {x: 3.4000015, y: 18}
+        - {x: -18.599998, y: 11}
+        - {x: -25.599998, y: 3}
+        - {x: -25.599998, y: -8}
+        - {x: -18.599998, y: -18}
+        - {x: 15.400002, y: -18}
+        - {x: 23.400002, y: -8}
+        - {x: 26.400002, y: -1}
+    - name: GlitchCow_3
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 0
+        width: 428
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.399994, y: 18}
+        - {x: -25.399994, y: -18}
+        - {x: 26.600006, y: -18}
+        - {x: 26.600006, y: 18}
+    - name: GlitchCow_4
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 0
+        width: 428
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.199997, y: -5}
+        - {x: -23.199997, y: -7}
+        - {x: -18.199997, y: -18}
+        - {x: 18.800003, y: -18}
+        - {x: 26.800003, y: -4}
+        - {x: 26.800003, y: 18}
+        - {x: -18.199997, y: 18}
+        - {x: -25.199997, y: 17}
+    - name: GlitchCow_5
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 0
+        width: 428
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -3}
+        - {x: 25, y: -5}
+        - {x: 26, y: -5}
+        - {x: 26, y: 18}
+        - {x: -26, y: 18}
+        - {x: -26, y: -18}
+        - {x: 26, y: -18}
+        - {x: 26, y: -14}
+    - name: GlitchCow_6
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 0
+        width: 428
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.2000122, y: 18}
+        - {x: -18.799988, y: 11}
+        - {x: -25.799988, y: 8}
+        - {x: -25.799988, y: -12}
+        - {x: -22.799988, y: -18}
+        - {x: 18.200012, y: -18}
+        - {x: 26.200012, y: -5}
+        - {x: 26.200012, y: 18}
+    - name: GlitchCow_7
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 0
+        width: 428
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.599976, y: -18}
+        - {x: 26.400024, y: -18}
+        - {x: 26.400024, y: 18}
+        - {x: -12.599976, y: 18}
+        - {x: -25.599976, y: 16}
+    - name: GlitchCow_8
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 0
+        width: 428
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.600006, y: 18}
+        - {x: -25.399994, y: 12}
+        - {x: -25.399994, y: -7}
+        - {x: -19.399994, y: -18}
+        - {x: 19.600006, y: -18}
+        - {x: 26.600006, y: -13}
+        - {x: 26.600006, y: 18}
+    - name: GlitchCow_9
+      rect:
+        serializedVersion: 2
+        x: 3852
+        y: 0
+        width: 428
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.8000183, y: 18}
+        - {x: -25.199982, y: 14}
+        - {x: -25.199982, y: -18}
+        - {x: 26.800018, y: -18}
+        - {x: 26.800018, y: 18}
+    - name: GlitchCow_10
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 0
+        width: 428
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -3}
+        - {x: 25, y: -5}
+        - {x: 26, y: -5}
+        - {x: 26, y: 18}
+        - {x: -26, y: 18}
+        - {x: -26, y: -18}
+        - {x: 26, y: -18}
+        - {x: 26, y: -14}
+    - name: GlitchCow_11
+      rect:
+        serializedVersion: 2
+        x: 4708
+        y: 0
+        width: 428
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.2000122, y: 18}
+        - {x: -18.799988, y: 11}
+        - {x: -25.799988, y: 8}
+        - {x: -25.799988, y: -12}
+        - {x: -22.799988, y: -18}
+        - {x: 26.200012, y: -18}
+        - {x: 26.200012, y: 18}
+    - name: GlitchCow_12
+      rect:
+        serializedVersion: 2
+        x: 5136
+        y: 0
+        width: 428
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.599976, y: 18}
+        - {x: -25.599976, y: -18}
+        - {x: 26.400024, y: -18}
+        - {x: 26.400024, y: 18}
+    - name: GlitchCow_13
+      rect:
+        serializedVersion: 2
+        x: 5564
+        y: 0
+        width: 428
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.3999634, y: 18}
+        - {x: -25.399963, y: 12}
+        - {x: -25.399963, y: -18}
+        - {x: 26.600037, y: -18}
+        - {x: 26.600037, y: 18}
+    - name: GlitchCow_14
+      rect:
+        serializedVersion: 2
+        x: 5992
+        y: 0
+        width: 428
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.699951, y: 18}
+        - {x: -25.699951, y: -9}
+        - {x: -18.699951, y: -18}
+        - {x: 19.300049, y: -18}
+        - {x: 27.300049, y: -5}
+        - {x: 27.300049, y: 18}
+    - name: GlitchCow_15
+      rect:
+        serializedVersion: 2
+        x: 6420
+        y: 0
+        width: 428
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 18}
+        - {x: -26, y: 18}
+        - {x: -26, y: -18}
+        - {x: 26, y: -18}
+    - name: GlitchCow_16
+      rect:
+        serializedVersion: 2
+        x: 6848
+        y: 0
+        width: 428
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.799988, y: 18}
+        - {x: -25.799988, y: -13}
+        - {x: -24.799988, y: -18}
+        - {x: 26.200012, y: -18}
+        - {x: 26.200012, y: 18}
+    - name: GlitchCow_17
+      rect:
+        serializedVersion: 2
+        x: 7276
+        y: 0
+        width: 428
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5999756, y: 18}
+        - {x: -25.599976, y: 8}
+        - {x: -25.599976, y: -18}
+        - {x: 19.400024, y: -18}
+        - {x: 26.400024, y: -4}
+        - {x: 26.400024, y: 18}
+    - name: GlitchCow_18
+      rect:
+        serializedVersion: 2
+        x: 7704
+        y: 0
+        width: 428
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.399963, y: 18}
+        - {x: -25.399963, y: -9}
+        - {x: -20.399963, y: -18}
+        - {x: 20.600037, y: -18}
+        - {x: 26.600037, y: -8}
+        - {x: 26.600037, y: 18}
+    - name: GlitchCow_19
+      rect:
+        serializedVersion: 2
+        x: 8132
+        y: 0
+        width: 428
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.8000488, y: 18}
+        - {x: -25.199951, y: 14}
+        - {x: -25.199951, y: -18}
+        - {x: 26.800049, y: -18}
+        - {x: 26.800049, y: 18}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

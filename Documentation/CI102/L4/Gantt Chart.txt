@@ -1,0 +1,15 @@
+-------- Phase 1 - init --------
+
+Form project groups (due 1/13/16)
+Come up with a project idea (due 1/13/16)
+Create a Bitbucket repository (due 1/13/16)
+Upload team profile (due 1/13/16)
+
+-------- Phase 2 - Requirements --------
+Write abstract document and business case (due 1/20/16)
+Revise team profile (due 1/20/16)
+Create project requirements document (due 1/27/16)
+Create project proposal
+Create a presentation (due 2/3/16)
+
+-------- Phase 3 - Design --------

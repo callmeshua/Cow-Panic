@@ -1,0 +1,63 @@
+Functional Requirements
+	- The game must allow for interaction with the game using the touchscreen controls
+	- The game must be a time-waster
+		- Elaborate
+	- The game must be pausable and auto-saves when pausing
+	- The game must be divided into levels/parts so the player can put it down when finished and pick it back up later
+		- Earlier levels should be around 30-45 seconds and later ones not much longer than 2 minutes
+	- The game must not require much thought but does require concentration (fast-paced but no puzzles)
+	- The game must be easily approachable for non-gamers while providing progression for more dedicated gamers
+	- The game must have a "campaign" mode and quick-game mode that keeps it simple
+		- The campaign mode has stages and progression in which the player can get upgrades
+			- The campaign must have the option to reset progression
+			- Player must be able to respec upgrades
+		- The "Quick Game" mode is just an endless survival
+	- The game must have an optional tutorial that introduces new mechanics as the player progresses
+		- Use arrows and text to demonstrate mechanics in first levels
+	- The game must have a self-explanatory and interesting name to attract people
+	- The game must be cheap
+	- The game must have graphics
+	- The game must have a title screen/menu
+		- Has "Play" and "Options" buttons
+			- Options menu must allow the player to disable sounds and music and reset campaign progress
+	- The game must have plenty of puns
+	- The game must have a local scoreboard
+		- Default name is "MOO"
+	- The game must have touch-screen support and buttons in the menus
+	
+Performance Requirements
+	- The game must auto-detect the device's resolution and scale accordingly (using nearest neighbor)
+	- The device must have a touchscreen, Android OS, and a Google PlayStore account to play (if uploaded online)
+	- The game must be 60 FPS
+	- The game should crash at most 5%
+	- The game must take at most five seconds for loading
+	- The game will crash "safely" in that it ideally terminates the app
+
+	- Facebook integration of scores?
+	- The game should have sounds
+
+
+Acronyms
+	- HUD
+	- UI
+	- FPS
+
+User Profiles
+	- Casual audience: probably will use the endless mode
+		- Will just want to play when killing time but may try and enjoy the campaign
+	- Gamer audience: probably will use campaign mode more
+		- Wants more depth to their mechanics so will enjoy exploring the upgrades
+		- Will be attracted to the progression the campaign offers
+
+System Interface
+	- Saves scoreboard, settings, and campaign progress locally on the Android machine
+
+User Interface
+	- Various menus allow for customizing the settings
+	- User interacts with the game through touchscreen gestures (tap, double-tap, swipe, etc.)
+
+Design Constraints
+	- Android platform
+
+Data Requirements
+	- Scoreboard space for top 10 people's 3 initials and their scores

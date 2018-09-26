@@ -1,0 +1,18 @@
+enum cowVariants = {default, mint, chocolate, ...}
+cowVariants myVariant
+variant = randGen.Next() % 100
+
+if(variant < 10)
+{
+	myVariant = default
+}
+
+
+switch(myVariant)
+{
+	case default:
+		POINTS_VALUE = 2
+		RUNNING_SPEED = 300
+	case mint:
+		
+}

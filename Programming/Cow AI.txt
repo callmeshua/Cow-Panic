@@ -1,0 +1,15 @@
+Cow AI:
+
+
+Things to consider:
+-should cows move from left to right, or spawn from both directions?
+--should there be a hard mode where cows spawn from both directions?
+
+= to be briefly discussed at lab 7 =
+
+
+Cow AI:
+
+
+[they just move to the right]
+

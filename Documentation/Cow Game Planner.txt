@@ -1,0 +1,20 @@
+Player must abduct healthy cows as they move across the screen
+Sick cows should be avoided
+Swipe up to use tractor beam on cows
+Double tap a location to move to that point
+Cowtapults eventually come in from the sides and shoot at the UFO
+	- As game goes on, they move, aim, and shoot faster
+	- Arc of the cow is shown when first starting game and then disappears later if player can survive long enough
+
+Different types of cows give different points
+	- Regular cows
+	- Chocolate cows
+	- Strawberry cows
+	- Coconut cows
+	- Almond cows
+	- Soy cows
+	- Goat cows
+	- Golden cows
+	- Mad cows (infect cows already on UFO and cost points)
+
+Can spend points (or raw cows of different types) at the end of each level to conduct research and upgrade the UFO?
